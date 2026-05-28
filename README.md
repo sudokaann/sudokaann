@@ -1,6 +1,6 @@
 # sudokaan
 
-<a><img src="src/Bootstrap.svg"> <img src="src/CPP.svg"> <img src="src/CS.svg"> <img src="src/Linux.svg"> <img src="src/Python.svg"> <img src="src/Bootstrap.svg"> <img src="src/Rust.svg"> <img src="src/SQLite.svg"> <img src="src/TailwindCSS.svg"></a>
+<a><img src="src/Bootstrap.svg"> <img src="src/CPP.svg"> <img src="src/CS.svg"> <img src="src/Linux.svg"> <img src="src/Python.svg"> <img src="src/Rust.svg"> <img src="src/SQLite.svg"> <img src="src/TailwindCSS.svg"></a>
 
 - 🔭 I’m currently working on **miniTelemetry**, and **BasicAntiCheat**.
 - 🌱 I’m currently learning **Rust**.
